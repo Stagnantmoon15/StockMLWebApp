@@ -1,0 +1,13 @@
+/docs
+/doc
+README.md
+LICENSE
+/tests
+/test
+/.vscode
+/.idea
+*.log
+/.git
+.gitignore
+*.pyc
+__pycache__
