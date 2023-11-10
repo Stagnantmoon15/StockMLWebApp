@@ -5,5 +5,5 @@ scikit-learn
 keras
 matplotlib
 pandas
-tensorflow
 gunicorn
+tensorflow
