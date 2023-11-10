@@ -6,4 +6,3 @@ keras
 matplotlib
 pandas
 tensorflow
-gunicorn
